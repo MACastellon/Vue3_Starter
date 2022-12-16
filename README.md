@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Make it your own
+
+```sh
+rm -rf .git
+```
